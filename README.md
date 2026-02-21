@@ -74,7 +74,7 @@ OEE monitoring and predictive maintenance for automotive manufacturing.
 
 ---
 
-### 🔄 [BigQuery Migration](https://github.com/Vanelfokamcode/customer360-bigquery-migration) `🚧 In Progress`
+### 🔄 [BigQuery Migration](https://github.com/Vanelfokamcode/customer360-bigquery-migration) 
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
